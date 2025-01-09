@@ -1,5 +1,5 @@
 # starwars
-Seite mit Zusatzinformationen zu Schnuppertag
+Seite mit Zusatzinformationen zum Schnuppertag
 
 ## Links
 
