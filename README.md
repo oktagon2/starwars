@@ -3,8 +3,14 @@ Seite mit Zusatzinformationen zum Schnuppertag
 
 ## Links
 
+### VS Code Installer
+https://go.microsoft.com/fwlink/?LinkID=534107
+
 ### Pixi Bibliothek für Raketenspiel
 https://cdn.jsdelivr.net/npm/pixi.js@7.x/dist/pixi.min.js
+
+## Auftrag
+Krieg der Sterne: Programmiere ein Spiel, bei dem der Spieler aus seiner Rakete heraus heranfliegende UFOs abschiessen muss, bevor er mit ihnen zusammenstösst.
 
 ## Akzeptanzkriterien
 |Nr|Kriterium|
@@ -13,8 +19,8 @@ https://cdn.jsdelivr.net/npm/pixi.js@7.x/dist/pixi.min.js
 |2|Hotspot funktioniert|
 |3|PC hat Internet, http://www.tkb.ch kann geöffnet werden|
 |4|Auf dem Desktop gibt es einen Ordner Raketenspiel|
-|5|Im Ordner Raketenspiel gibt es eine Datei gameloop.js. Die Datei gameloop.js stammt von ???|
-|6|Im Ordner Raketenspiel gibt es einen Ordner assets. Der Ordner samt Inhalt stammt von ???|
+|5|Im Ordner Raketenspiel gibt es eine Datei gameloop.js. Die Datei gameloop.js stammt von https://github.com/oktagon2/starwars/tree/main/3rdParty|
+|6|Im Ordner Raketenspiel gibt es einen Ordner assets. Der Ordner samt Inhalt stammt von https://github.com/oktagon2/starwars/tree/main/3rdParty|
 |7|Im Ordner assets gibt es die Dateien bullet.png, rocket.png, ufo1.png und ufo2.png|
 |8|Auf dem PC ist Visual Studio Code (kurz VS Code) installiert|
 |9|VS Code NICHT aus dem Installationsprogramm heraus starten (DAS IST UNSICHER)|
